@@ -1,0 +1,19 @@
+{
+  "name": "reactcreate",
+  "version": "1.0.0",
+  "description": "Create a project with Vite and custom options",
+  "main": "index.js",
+  "bin": {
+    "reactcreate": "./bin/reactcreate"
+  },
+  "dependencies": {
+    "inquirer": "^8.5.0",
+    "shelljs": "^0.8.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["create", "vite", "react", "vue", "angular", "svelte", "tailwind", "framer-motion", "anime.js", "gsap"],
+  "author": "Anish Sharma",
+  "license": "ISC"
+}
