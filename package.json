@@ -4,16 +4,35 @@
   "description": "Create a project with Vite and custom options",
   "main": "index.js",
   "bin": {
-    "reactcreate": "./bin/reactcreate"
+    "reactcreate": "bin/reactcreate"
   },
   "dependencies": {
-    "inquirer": "^8.5.0",
-    "shelljs": "^0.8.4"
+    "inquirer": "^9.2.12",
+    "shelljs": "^0.8.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["create", "vite", "react", "vue", "angular", "svelte", "tailwind", "framer-motion", "anime.js", "gsap"],
+  "keywords": [
+    "create",
+    "vite",
+    "react",
+    "vue",
+    "angular",
+    "svelte",
+    "tailwind",
+    "framer-motion",
+    "anime.js",
+    "gsap"
+  ],
   "author": "Anish Sharma",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishdevtech/react-script.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anishdevtech/react-script/issues"
+  },
+  "homepage": "https://github.com/anishdevtech/react-script#readme"
 }
