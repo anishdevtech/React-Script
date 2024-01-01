@@ -4,7 +4,7 @@
   "description": "Create a project with Vite and custom options",
   "main": "index.js",
   "bin": {
-    "reactcreate": "./bin/reactcreate"
+    "reactcreate": "./bin/reactcreate/index.js"
   },
   "dependencies": {
     "inquirer": "^8.5.0",
