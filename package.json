@@ -10,7 +10,7 @@
     "inquirer": "^8.5.0",
     "shelljs": "^0.8.4"
   },
-  "repository" {
+  "repository": {
     "type":"git",
     "url":"https://github.com/anishdevtech/react-script"
   },
